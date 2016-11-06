@@ -31,6 +31,6 @@ int main()
 	for(int i = 0 ; i < prime.size(); i++)
 		cout<<prime[i]<<" ";
 	cout<<endl;
-	cout<<isprime[23]<<endl;  //checking if 23 is prime of not
+	cout<<isprime[23]<<endl;  //checking if 23 is prime or not
 	return 0;
 }
